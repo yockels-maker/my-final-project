@@ -15,3 +15,4 @@ Please open an issue with a detailed description of the bug and steps to reprodu
 
 ## Suggesting Enhancements
 We welcome new ideas! Please open an issue to discuss your suggestions.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
